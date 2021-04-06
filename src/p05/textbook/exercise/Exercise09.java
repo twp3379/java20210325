@@ -33,7 +33,7 @@ public class Exercise09 {
 					scores[i] = scanner.nextInt();
 				}
 				break;
-			case 3:
+			case 3: 
 				// 점수리스트
 				for (int i = 0; i < scores.length; i++) {
 					System.out.println("scores[" + i + "]: " + scores[i]);
