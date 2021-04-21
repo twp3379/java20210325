@@ -8,4 +8,8 @@ public class RemoteControlExample {
 		System.out.println(RemoteControl.MAX_VOLUME);
 		System.out.println(RemoteControl.MIN_VOLUME);
 	}
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

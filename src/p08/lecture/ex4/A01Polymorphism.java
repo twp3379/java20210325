@@ -17,6 +17,7 @@ public class A01Polymorphism {
 		System.out.println("공격");
 		hero.attack();
 		
+<<<<<<< HEAD
 	}
 }
 
@@ -26,3 +27,9 @@ public class A01Polymorphism {
 
 
 
+=======
+		
+	}
+
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

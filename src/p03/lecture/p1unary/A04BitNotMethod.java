@@ -5,6 +5,7 @@ public class A04BitNotMethod {
 		// 책 75쪽 코드 설명을 위한 부가내용
 		
 		// javascript :
+<<<<<<< HEAD
 		// function funcName(param1, param2) {
 		//    statements.....;
 		//    return 3;
@@ -32,3 +33,23 @@ public class A04BitNotMethod {
 
 
 
+=======
+		// function funcName (param1, param2 {
+		// statement.....;
+		// return 3 ;
+		// }
+		
+		// 함수호출:
+		// funcName (1, 2);
+		
+		// java 메소드호출:
+		// funcName(5, 6);
+	}
+	
+	public static String funcName (int para1, int param2) {
+		// statements.....;
+		
+		return "hello"; 
+	}
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

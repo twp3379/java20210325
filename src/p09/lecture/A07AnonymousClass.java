@@ -5,6 +5,7 @@ public class A07AnonymousClass {
 	MyInterface o1 = new MyInterface() {
 		
 	};
+<<<<<<< HEAD
 	
 	void method2() {
 		// 매개값(argument)
@@ -16,4 +17,16 @@ public class A07AnonymousClass {
 	void method(MyInterface o) {
 		
 	}
+=======
+	void method2() {
+		// 매개값(argument)
+		method(new MyInterface() {
+		});
+	}
+	
+	void method(MyInterface o) {
+		
+	}
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

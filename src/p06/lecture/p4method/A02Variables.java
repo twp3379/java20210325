@@ -15,6 +15,7 @@ public class A02Variables {
 		c1.method1(11);
 		c2.method1(12);
 	}
+<<<<<<< HEAD
 }
 
 
@@ -23,3 +24,7 @@ public class A02Variables {
 
 
 
+=======
+
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

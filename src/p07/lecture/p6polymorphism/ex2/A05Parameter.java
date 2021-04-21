@@ -25,8 +25,13 @@ public class A05Parameter {
 	public static void method(KindaCat k) {
 		k.cry();
 	}
+<<<<<<< HEAD
 }
 
 
 
 
+=======
+
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

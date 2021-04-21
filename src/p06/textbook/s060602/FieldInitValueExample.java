@@ -5,6 +5,7 @@ public class FieldInitValueExample {
 		FieldInitValue fiv = new FieldInitValue();
 		FieldInitValue fiv2 = new FieldInitValue();
 		fiv2.intField = 99;
+<<<<<<< HEAD
 		
 		System.out.println("byteField: " + fiv.byteField);
 		System.out.println("shortField: " + fiv.shortField);
@@ -17,5 +18,18 @@ public class FieldInitValueExample {
 		System.out.println("arrField: " + fiv.arrField);
 		System.out.println("referenceField: " + fiv.referenceField);
 		
+=======
+
+		System.out.println("byteField: " + fiv.byteField);
+		System.out.println("shortField: " + fiv.shortField);
+		System.out.println("intField: " + fiv.intField);
+		System.out.println("longField: " + fiv.longField);
+		System.out.println("booleanField: " + fiv.booleanField);
+		System.out.println("charField: " + fiv.charField);
+		System.out.println("floatField: " + fiv.floatField);
+		System.out.println("doubleField: " + fiv.doubleField);
+		System.out.println("arrField: " + fiv.arrField);
+		System.out.println("referenceField: " + fiv.referenceField);
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 	}
 }

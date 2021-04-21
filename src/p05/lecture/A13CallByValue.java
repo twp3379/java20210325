@@ -16,6 +16,7 @@ public class A13CallByValue {
 		
 		method2(10);
 	}
+<<<<<<< HEAD
 	
 	public static void method1() {
 		System.out.println("method1 statement1");
@@ -37,3 +38,18 @@ public class A13CallByValue {
 
 
 
+=======
+
+	public static void method1() {
+		System.out.println("method1 statement1");
+		System.out.println("method1 statement2");
+
+	}
+	
+	public static void method2(int i) {
+		System.out.println("method2 statemnet1");
+		System.out.println(i);
+		System.out.println("method2 statement2");
+	}
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

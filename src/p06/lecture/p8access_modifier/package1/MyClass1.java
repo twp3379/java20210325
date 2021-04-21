@@ -46,6 +46,7 @@ public class MyClass1 {
 	private void method6() {
 		
 	}
+<<<<<<< HEAD
 }
 
 
@@ -60,3 +61,6 @@ public class MyClass1 {
 
 
 
+=======
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

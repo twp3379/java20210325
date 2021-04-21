@@ -6,6 +6,7 @@ public class A06StringEquals {
 		String s = new String("java");
 		String t = "java";
 		String u = "java";
+<<<<<<< HEAD
 		
 		boolean d1 = s.equals(t);
 		System.out.println(s == t); //false
@@ -19,3 +20,14 @@ public class A06StringEquals {
 
 
 
+=======
+
+		boolean di = s.equals(t);
+		System.out.println(s == t); // false
+		System.out.println(di); // true
+
+		System.out.println(s.equals(s)); // true
+		System.out.println(t.equals(u)); // true
+	}
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

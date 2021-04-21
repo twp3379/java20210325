@@ -17,6 +17,7 @@ public class A16CallByValue {
 	}
 
 	public static void print(int[] arr) {
+<<<<<<< HEAD
 		for (int i = 0; i < arr.length; i++) {
 			System.out.println(arr[i]);
 		}
@@ -33,3 +34,11 @@ public class A16CallByValue {
 
 
 
+=======
+		for (int i = 0; i < arr.length; i ++) {
+			System.out.println(arr[i]);
+		}
+	}
+	
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

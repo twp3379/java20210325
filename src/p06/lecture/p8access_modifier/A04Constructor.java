@@ -7,6 +7,7 @@ public class A04Constructor {
 	// 자동으로 기본생성자(아규먼트 없는 생성자)가 추가되는데
 	// 접근지정자는 class의 접근지정가 붙는다.
 	
+<<<<<<< HEAD
 
 	/*
 	private A04Constructor() {
@@ -21,4 +22,19 @@ public class A04Constructor {
 		
 	}
 	*/
+=======
+	/*
+	private A04Constructor() {
+		
+	}
+	
+	public A04Constructor(int i) {
+		
+	}
+	
+	A04Constructor(int i, int j){
+		
+	}
+    */
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

@@ -5,6 +5,11 @@ import java.util.Scanner;
 import p06.lecture.p7package.package1.MyClass1;
 import p06.lecture.p7package.package2.MyClass2;
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 public class A02Package {
 	public static void main(String[] args) {
 //		p06.lecture.p7package.package1.MyClass1 o1 

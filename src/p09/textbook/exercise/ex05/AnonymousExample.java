@@ -6,6 +6,7 @@ public class AnonymousExample {
 		anony.field.run();
 		anony.method1();
 		anony.method2(new Vehicle() {
+<<<<<<< HEAD
 			
 			@Override
 			public void run() {
@@ -13,4 +14,15 @@ public class AnonymousExample {
 			}
 		});
 	}
+=======
+
+			@Override
+			public void run() {
+				System.out.println("트럭이 달립니다.");
+
+			}
+		});
+	}
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

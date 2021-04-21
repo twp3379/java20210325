@@ -4,8 +4,14 @@ public class Exercise07 {
 	public static void main(String[] args) {
 		int x = 10;
 		int y = 5;
+<<<<<<< HEAD
 		
 		System.out.println((x > 7) && (y <= 5)); // true
 		System.out.println((x % 3 == 2) || (y % 2 != 1)); //false
+=======
+
+		System.out.println((x > 7) && (y <= 5));
+		System.out.println((x % 3 == 2) || (y % 2 != 1));
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 	}
 }

@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class A05IfSampleScanner {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
+<<<<<<< HEAD
 		
 		System.out.println("입력>");
 		String str = scanner.nextLine(); // String
@@ -27,3 +28,20 @@ public class A05IfSampleScanner {
 
 
 
+=======
+
+		System.out.println("입력>");
+
+		String str = scanner.nextLine(); // String
+
+		System.out.println("출력>");
+		System.out.println(str);
+
+		System.out.println("수 입력");
+		int in = scanner.nextInt();
+
+		System.out.println("수 출력");
+		System.out.println(in);
+	}
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

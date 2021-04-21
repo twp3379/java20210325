@@ -26,4 +26,8 @@ public class FloatDoubleExample {
 		System.out.println("var8:" + var8);
 		System.out.println("var9:" + var9);
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

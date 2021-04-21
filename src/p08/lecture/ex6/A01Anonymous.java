@@ -20,6 +20,7 @@ public class A01Anonymous {
 		i2.method1();
 		
 	}
+<<<<<<< HEAD
 }
 
 
@@ -29,3 +30,6 @@ public class A01Anonymous {
 
 
 
+=======
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

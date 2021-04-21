@@ -4,6 +4,7 @@ public class A14CallByValue {
 	public static void main(String[] args) {
 		int i = 3;
 		int j = 5;
+<<<<<<< HEAD
 		
 		method1(i);
 		method1(j);
@@ -31,3 +32,25 @@ public class A14CallByValue {
 
 
 
+=======
+
+		method1(i);
+		method1(j);
+
+		int[] arr1 = new int[3];
+		int[] arr2 = new int[5];
+
+		method2(arr1);
+		method2(arr2);
+	}
+
+	public static void method1(int i) {
+		System.out.println(i);
+	}
+
+	public static void method2(int[] arr) {
+		System.out.println(arr.length);
+
+	}
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

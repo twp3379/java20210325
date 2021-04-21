@@ -10,6 +10,7 @@ public class CarExample {
 		System.out.println("car2.company : " + car2.company);
 		System.out.println("car2.model : " + car2.model);
 		System.out.println("car2.color : " + car2.color);
+<<<<<<< HEAD
 		System.out.println("car2.maxSpeed : " + car2.maxSpeed);
 		System.out.println();
 
@@ -25,5 +26,23 @@ public class CarExample {
 		System.out.println("car4.model : " + car4.model);
 		System.out.println("car4.color : " + car4.color);
 		System.out.println("car4.maxSpeed : " + car4.maxSpeed);
+=======
+		System.out.println("car2.maxspeed : " + car2.maxspeed);
+		System.out.println();
+
+		Car car3 = new Car("자가용", "빨강");
+		System.out.println("car3.company : " + car3.company);
+		System.out.println("car3.model : " + car3.model);
+		System.out.println("car3.color : " + car3.color);
+		System.out.println("car3.maxspeed : " +  car3.maxspeed);
+		System.out.println();
+
+		Car car4 = new Car("택시", "검정", 200);
+		System.out.println("car4.company : " + car4.company);
+		System.out.println("car4.model : " + car4.model);
+		System.out.println("car4.color : " + car4.color);
+		System.out.println("car4.maxspeed : " + car4.maxspeed);
+		System.out.println();
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 	}
 }

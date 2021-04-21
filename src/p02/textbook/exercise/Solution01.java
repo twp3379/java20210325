@@ -60,6 +60,7 @@ public class Solution01 {
 		double var1 = (double) intValue;
 		byte var2 = (byte) intValue;
 		int var3 = (int) doubleValue;
+<<<<<<< HEAD
 		char var4 = (char) strValue;
 		
 		
@@ -117,3 +118,36 @@ public class Solution01 {
 
 
 
+=======
+//		char var4 = (char) strValue;
+		
+		
+		
+		
+		
+		
+		/////////////
+		// 7번 문제;
+		
+		int var1 = 10;
+		long var2= 10000000000000L;
+//		char var3 = '';
+		double var4 = 10;
+		float var5 = 10;
+		
+		
+		
+		/////////////
+		// 8번 문제;
+		byte byteValue8 = 10;
+		float floatValue8 = 2.5F;
+		double doubleValue8 = 2.5;
+		
+		byte result1 = byteValue8 + byteValue8;
+		int result2 = 5 + byteValue8;
+		float result3 = 5 + floatValue8;
+		double result4 = 5 + doubleValue8;
+		
+	}
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

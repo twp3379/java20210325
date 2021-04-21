@@ -5,4 +5,8 @@ public class AnonymousExample {
 		Anonymous anony = new Anonymous();
 		anony.method(0, 0);
 	}
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

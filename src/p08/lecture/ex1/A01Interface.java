@@ -12,6 +12,7 @@ public class A01Interface {
 		KindaDog k2 = d1;
 		Pet p2 = d1;
 		p2.sit();
+<<<<<<< HEAD
 
 //		Pet p3 = new Pet(); // x
 	}
@@ -21,3 +22,11 @@ public class A01Interface {
 
 
 
+=======
+		
+		
+		// pet p3 = new Pet(); // x
+	}
+
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

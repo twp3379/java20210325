@@ -6,4 +6,8 @@ public class OutterExample {
 		Outter.Nested nested = outter.new Nested();
 		nested.print();
 	}
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

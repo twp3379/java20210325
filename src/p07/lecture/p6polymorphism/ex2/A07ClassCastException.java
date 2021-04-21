@@ -6,9 +6,18 @@ public class A07ClassCastException {
 		KindaCat k1 = new Tiger();
 		
 		Tiger t1 = (Tiger) k1;
+<<<<<<< HEAD
 		Cat c1 = (Cat) k1; // 
 		
 		
 		System.out.println("프로그램 종료...");
 	}
+=======
+		Cat c1 = (Cat) k1; //
+		
+		
+		System.out.println("프로그램 종료...");
+	}
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

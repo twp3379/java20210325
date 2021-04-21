@@ -16,6 +16,7 @@ public class ForMultiplicationTableExample2 {
 		****
 		*****
 		 */
+<<<<<<< HEAD
 		for (int i = 0; i < 5; i++) {
 			for (int j = 0; j <= i; j++) {
 				System.out.print("*");
@@ -78,3 +79,69 @@ public class ForMultiplicationTableExample2 {
 
 
 
+=======
+		
+		for (int i = 0; i < 5; i++) {
+			for (int j = 0; j <= i; j++) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+		
+		/*
+		 *****
+		 ****
+		 ***
+		 **
+		 *
+		 */
+		
+		System.out.println("------------------");
+		for (int i = 0; i < 5; i++) {
+			for (int j = 5; j > i; j--) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+		/*
+		
+		 *****
+		  ****
+		   ***
+		    **
+		     *
+		 */
+		
+		System.out.println("------------------");
+		for (int i = 0; i < 5; i++) {
+			for (int s = 0; i > s;  s++) {
+				System.out.print(" ");
+			}
+			for (int j = 5; j > i; j--) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+		
+		/*
+		     *
+		    **
+		   ***
+		  ****
+		 *****
+		 */
+		
+		System.out.println("------------------");
+		for (int i = 0; i < 5; i++) {
+			for (int s = 4; i < s;  s--) {
+				System.out.print(" ");
+			}
+			for (int j = 0; j <= i; j++) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+
+	}
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

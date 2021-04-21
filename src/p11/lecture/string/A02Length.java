@@ -5,6 +5,7 @@ public class A02Length {
 		String str1 = "java servlet spring";
 		int len = str1.length();
 		System.out.println(len);
+<<<<<<< HEAD
 		
 		String s1 = str1.substring(18, 19);
 		System.out.println(s1);
@@ -16,3 +17,14 @@ public class A02Length {
 
 
 
+=======
+
+		String s1 = str1.substring(18, 19);
+		System.out.println(s1);
+
+		String s2 = str1.substring(len - 1, len);
+		System.out.println(s2);
+
+	}
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

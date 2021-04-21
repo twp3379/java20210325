@@ -19,6 +19,7 @@ public class A02Sample {
 		System.out.println("무지개총을 주웠다.");
 		hero.setGun(new RainbowGun());
 		
+<<<<<<< HEAD
 		System.out.println("적 만남");
 		hero.attack();
 		
@@ -30,3 +31,10 @@ public class A02Sample {
 
 
 
+=======
+		System.out.println("적만남");
+		hero.attack();
+	}
+
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

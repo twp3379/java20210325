@@ -8,6 +8,12 @@ public class DriverExample {
 		Taxi taxi = new Taxi();
 		
 		driver.drive(bus);
+<<<<<<< HEAD
 		driver.drive(taxi); 
 	}
+=======
+		driver.drive(taxi);
+	}
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

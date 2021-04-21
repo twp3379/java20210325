@@ -26,4 +26,8 @@ public class Anonymous {
 		
 		System.out.println(calc.sum());
 	}
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

@@ -1,6 +1,6 @@
 package p08.lecture.ex4;
 
-public class A02PolymorphismArray {
+public class A02polymorphismArray {
 	public static void main(String[] args) {
 		CharSequence[] cs = new CharSequence[3];
 		cs[0] = new String("abc");
@@ -12,3 +12,4 @@ public class A02PolymorphismArray {
 		System.out.println(cs[2].length());
 	}
 }
+

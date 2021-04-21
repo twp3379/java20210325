@@ -15,5 +15,9 @@ public class SwitchNoBreakCaseExample {
 		default:
 			System.out.println("외근을 나갑니다.");
 		}
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 	}
 }

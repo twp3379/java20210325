@@ -29,8 +29,12 @@ public class MyClass3 {
 	void method4() {
 		System.out.println("method4()");
 	}
+<<<<<<< HEAD
 }
 
 
 
 
+=======
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

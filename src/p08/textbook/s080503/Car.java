@@ -12,6 +12,7 @@ public class Car {
 	};
 	
 	void run() {
+<<<<<<< HEAD
 		for (Tire tire : tires) {
 			tire.roll();
 		}
@@ -20,3 +21,11 @@ public class Car {
 
 
 
+=======
+		for(Tire tire : tires) {
+			tire.roll();
+		}
+	}
+
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

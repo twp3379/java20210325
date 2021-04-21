@@ -12,8 +12,13 @@ public class A02Compare {
 		
 		System.out.println(e == f);
 	}
+<<<<<<< HEAD
 }
 
 
 
 
+=======
+
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

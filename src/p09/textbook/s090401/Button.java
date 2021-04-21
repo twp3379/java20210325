@@ -14,9 +14,14 @@ public class Button {
 	interface OnClickListener {
 		void onClick();
 	}
+<<<<<<< HEAD
 }
 
 
 
 
 
+=======
+
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

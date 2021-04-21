@@ -25,7 +25,10 @@ public class A01Polymorphism {
 		KindaCat k3 = new Cat();
 		KindaCat k4 = new Tiger();
 		
+<<<<<<< HEAD
 		
+=======
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 //		cat1 = k1; // x
 //		tiger1 = k2; // x
 //		

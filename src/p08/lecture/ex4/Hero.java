@@ -10,4 +10,8 @@ public class Hero {
 	public void attack() {
 		this.gun.fire();
 	}
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

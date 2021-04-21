@@ -9,6 +9,7 @@ public class StringEqualsExample {
 		System.out.println(strVar1);
 		System.out.println(strVar2);
 		System.out.println(strVar3);
+<<<<<<< HEAD
 		
 		System.out.println(strVar1 == strVar2);
 		System.out.println(strVar1 == strVar3);
@@ -25,3 +26,15 @@ public class StringEqualsExample {
 
 
 
+=======
+
+		System.out.println(strVar1 == strVar2);
+		System.out.println(strVar1 == strVar3);
+		System.out.println();
+		System.out.println(strVar1.equals(strVar2));
+		System.out.println(strVar1.equals(strVar3));
+		
+	}
+
+}
+>>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
