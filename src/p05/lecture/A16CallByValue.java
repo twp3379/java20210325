@@ -6,9 +6,9 @@ public class A16CallByValue {
 		for (int i = 0; i < arr1.length; i++) {
 			arr1[i] = i * 2; // 0 2 4
 		}
-		
+
 		print(arr1); // 0 2 4
-		
+
 		int[] arr2 = new int[5];
 		for (int i = 0; i < arr2.length; i++) {
 			arr2[i] = i * 100; // 0 100 200 300 400
@@ -17,28 +17,9 @@ public class A16CallByValue {
 	}
 
 	public static void print(int[] arr) {
-<<<<<<< HEAD
 		for (int i = 0; i < arr.length; i++) {
 			System.out.println(arr[i]);
 		}
 	}
-	
+
 }
-
-
-
-
-
-
-
-
-
-
-=======
-		for (int i = 0; i < arr.length; i ++) {
-			System.out.println(arr[i]);
-		}
-	}
-	
-}
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

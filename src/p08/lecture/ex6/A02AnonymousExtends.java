@@ -4,8 +4,8 @@ public class A02AnonymousExtends {
 	public static void main(String[] args) {
 		Parent p1 = new Child();
 		p1.method1();
-		
-		// 익명클래스의 객체 
+
+		// 익명클래스의 객체
 		Parent p2 = new Parent() {
 			@Override
 			public void method1() {
@@ -14,12 +14,5 @@ public class A02AnonymousExtends {
 		};
 		p2.method1();
 	}
-<<<<<<< HEAD
+
 }
-
-
-
-
-=======
-}
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

@@ -8,7 +8,6 @@ public class A28ArrayOfArray {
 
 		arr[0] = new int[] { 9, 8, 7 };
 		arr[1] = arr[0];
-<<<<<<< HEAD
 		
 		for (int[] row : arr) {
 			System.out.println(Arrays.toString(row));
@@ -26,21 +25,3 @@ public class A28ArrayOfArray {
 }
 
 
-
-=======
-
-		for (int[] row : arr) {
-			System.out.println(Arrays.toString(row));
-		}
-
-		// 변경
-		arr[1][0] = 10;
-		arr[1][1] = 20;
-		arr[1][2] = 30;
-		for (int[] row : arr) {
-			System.out.println(Arrays.toString(row));
-		}
-
-	}
-}
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

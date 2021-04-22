@@ -25,15 +25,4 @@ public class OperationsPromotionExample {
 		double doubleValue = intValue5 / 4.0;
 		System.out.println(doubleValue);
 	}
-<<<<<<< HEAD
 }
-
-
-
-
-
-
-
-=======
-}
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

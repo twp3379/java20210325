@@ -17,9 +17,6 @@ public class PromotionExample {
 		intValue = 200;
 		double doubleValue = intValue; // double <- int
 		System.out.println(doubleValue);
-<<<<<<< HEAD
-=======
 
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 	}
 }

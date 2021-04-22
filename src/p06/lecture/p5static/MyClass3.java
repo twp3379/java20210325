@@ -13,28 +13,21 @@ public class MyClass3 {
 		System.out.println(j);
 //		System.out.println(i);
 	}
-	
+
 	static void method3() {
 		System.out.println("method3()");
 	}
-	
+
 	void method2() {
 		System.out.println("method2()");
 		this.method4();
-		
+
 		// instance member는 static member에 접근 가능
 		method3();
 	}
-	
+
 	void method4() {
 		System.out.println("method4()");
 	}
-<<<<<<< HEAD
+
 }
-
-
-
-
-=======
-}
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

@@ -5,7 +5,7 @@ public class A01Sign {
 		int x = 100;
 		int y = -100;
 		int z = -x;
-<<<<<<< HEAD
+
 		
 		int a = -y;
 		
@@ -15,15 +15,6 @@ public class A01Sign {
 		System.out.println(a);
 		
 		
-=======
 
-		int a = -y;
-
-		System.out.println(x);
-		System.out.println(y);
-		System.out.println(z);
-		System.out.println(a);
-
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 	}
 }

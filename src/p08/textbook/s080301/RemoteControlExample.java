@@ -8,8 +8,5 @@ public class RemoteControlExample {
 		rc = new Television();
 		rc = new Audio();
 	}
-<<<<<<< HEAD
-=======
 
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

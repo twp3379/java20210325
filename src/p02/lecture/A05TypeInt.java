@@ -35,13 +35,3 @@ public class A05TypeInt {
 		System.out.println(intVar);
 	}
 }
-<<<<<<< HEAD
-
-
-
-
-
-
-
-=======
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

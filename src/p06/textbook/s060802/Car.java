@@ -1,34 +1,7 @@
 package p06.textbook.s060802;
 
 public class Car {
-<<<<<<< HEAD
-	int gas;
-	
-	void setGas(int gas) {
-		this.gas = gas;
-	}
-	
-	boolean isLeftGas() {
-		if (gas == 0) {
-			System.out.println("gas가 없습니다.");
-			return false;
-		} 
-		System.out.println("gas가 있습니다.");
-		return true;
-	}
-	
-	void run() {
-		while (true) {
-			if (gas > 0) {
-				System.out.println("달립니다.(gas잔량:" + gas + ")");
-				gas -= 1;
-			} else {
-				System.out.println("달립니다.(gas잔량:" + gas + ")");
-				return;
-			}
-		}
-	}
-=======
+
 	// 필드
 	int gas;
 
@@ -60,5 +33,4 @@ public class Car {
 		}
 	}
 
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

@@ -33,7 +33,7 @@ public class Exercise09 {
 					scores[i] = scanner.nextInt();
 				}
 				break;
-<<<<<<< HEAD
+
 			case 3:
 				// 점수리스트
 				for (int i = 0; i < scores.length; i++) {
@@ -45,37 +45,17 @@ public class Exercise09 {
 				int max = Integer.MIN_VALUE;
 				double sum = 0;
 				double avg = 0;
-				
+
 				for (int score : scores) {
 					sum += score;
 					if (score > max) {
 						max = score;
 					}
-//					max = (max > score) ? max : score;
-//					max = Math.max(max, score);
-=======
-			case 3: 
-				// 점수리스트
-				for (int i = 0; i < scores.length; i++) {
-					System.out.println("scores[" + i + "]: " + scores[i]);
+
 				}
-				break;
-			case 4:
-				// 분석
-				int max = Integer.MIN_VALUE;
-				double sum = 0;
-				double avg = 0;
-				
-				for (int score : scores) {
-					sum += score;
-					if (score > max) {
-						max = score;
-					}
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
-				}
-				
+
 				avg = sum / scores.length;
-				
+
 				System.out.println("최고 점수: " + max);
 				System.out.println("평균 점수: " + avg);
 				break;

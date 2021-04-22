@@ -4,7 +4,7 @@ public class A01Interface {
 	public static void main(String[] args) {
 		System.out.println(MyInterface.MY_FIELD1);
 		System.out.println(MyInterface.MY_FIELD2);
-<<<<<<< HEAD
+
 		
 		MyInterface.staticMethod1();
 		MyInterface.staticMethod2();
@@ -23,18 +23,4 @@ public class A01Interface {
 
 
 
-=======
 
-		MyInterface.staticMethod1();
-		MyInterface.staticMethod2();
-
-		MyClass c1 = new MyClass();
-		c1.method1();
-		c1.method2();
-
-		c1.defaultMethod1();
-		c1.defaultMethod2();
-	}
-
-}
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

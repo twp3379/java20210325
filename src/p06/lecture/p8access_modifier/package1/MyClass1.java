@@ -4,63 +4,47 @@ public class MyClass1 {
 	public int i;
 	private int j;
 	int k; // default, package private
-	
+
 	public static int a;
 	private static int b;
 	static int c;
-	
+
 	public MyClass1() {
-		
+
 	}
-	
+
 	private MyClass1(int i) {
-		
+
 	}
-	
+
 	MyClass1(int i, int j) {
-		
+
 	}
-	
+
 	private void method1() {
-		
+
 	}
-	
+
 	public void method2() {
-		
+
 	}
-	
+
 	void method() {
 		System.out.println(i);
 		System.out.println(j);
 		System.out.println(k);
 	}
-	
+
 	public static void method4() {
-		
+
 	}
-	
+
 	static void method5() {
-		
+
 	}
-	
+
 	private void method6() {
-		
+
 	}
-<<<<<<< HEAD
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-}
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

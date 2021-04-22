@@ -9,13 +9,7 @@ public class A07ParameterNumber {
 		o1.method3(2);
 		o1.method3(2, 4);
 		o1.method3(2, 4, 6);
-		o1.method3(new int[] {9, 8, 7});
+		o1.method3(new int[] { 9, 8, 7 });
 	}
 
 }
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

@@ -6,9 +6,6 @@ public class PrinterExample {
 		Printer.println(true);
 		Printer.println(5.7);
 		Printer.println("홍길동");
-<<<<<<< HEAD
-=======
 
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 	}
 }

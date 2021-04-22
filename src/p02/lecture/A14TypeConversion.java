@@ -31,12 +31,10 @@ public class A14TypeConversion {
 		char c3 = 'a' + 1;
 	}
 }
-<<<<<<< HEAD
 
 
 
 
 
 
-=======
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
+

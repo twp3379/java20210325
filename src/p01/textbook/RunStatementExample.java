@@ -7,8 +7,4 @@ public class RunStatementExample {
 		int result = x + y; // 변수 result를 선언하고 x와 y를 더한 값을 저장
 		System.out.println(x + "+" + y + "=" + result); // 콘솔에 출력하는 메소드 호출
 	}
-<<<<<<< HEAD
-=======
-
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 }

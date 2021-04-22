@@ -8,14 +8,7 @@ public class Car {
 	Engine engine = new Engine();
 	SnowTire tire1 = new SnowTire();
 	BigWidthTire tire2 = new BigWidthTire();
-	
+
 	p06.textbook.s061204.hankook.Tire tire3 = new p06.textbook.s061204.hankook.Tire();
 	p06.textbook.s061204.kumho.Tire tire4 = new p06.textbook.s061204.kumho.Tire();
 }
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git

@@ -3,13 +3,9 @@ package p04.textbook;
 public class IfDiceExample {
 	public static void main(String[] args) {
 		int num = (int) (Math.random() * 6) + 1;
-<<<<<<< HEAD
-		
-		if (num ==1 ) {
-=======
 
 		if (num == 1) {
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
+
 			System.out.println("1번이 나왔습니다.");
 		} else if (num == 2) {
 			System.out.println("2번이 나왔습니다.");

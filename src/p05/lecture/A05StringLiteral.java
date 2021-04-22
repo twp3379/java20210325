@@ -6,11 +6,7 @@ public class A05StringLiteral {
 		String s = new String("java");
 		String t = "java";
 		String u = "java";
-<<<<<<< HEAD
-		
-=======
 
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
 		System.out.println(s == t);
 		System.out.println(t == u);
 	}

@@ -9,7 +9,7 @@ public class A12TypeConversion {
 		// 자동 형변환
 		doubleVar1 = floatVar1;
 		
-<<<<<<< HEAD
+
 		// 강제 형변환 (casting)
 //		floatVar1 = doubleVar1;
 		floatVar1 = (float) doubleVar1;
@@ -36,25 +36,4 @@ public class A12TypeConversion {
 
 
 
-=======
-		// 강제 형변화 (casting)
-//		floatVar1 = doubleVar1;
-		floatVar1 = (float) doubleVar1;
-		
-		///////////////////////////////
-		// 정수 -> 실수
-		int intVar1 = 3;
-		float floatVar2 = intVar1;  // 자동형변환
-		double dobleVar2 = intVar1; // 자동형변환
-		
-		// 실수 -> 정수
-		double doubleVar3 = 3.14;
-//		int intVar3 = doubleVar3;
-		int intVar3 = (int) doubleVar3; // 강제 형변환 (casting);
-		System.out.println(intVar3);
-		
-		
 
-	}
-}
->>>>>>> branch 'master' of https://github.com/twp3379/java20210325.git
