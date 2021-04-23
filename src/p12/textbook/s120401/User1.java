@@ -1,0 +1,16 @@
+package p12.textbook.s120401;
+
+public class User1 extends Thread {
+	private Calculator calculator;
+	
+	public void setCaculator(Calculator calculator) {
+		this.setName("User1");
+		this.calculator = calculator;
+		
+	}
+	
+	public void run() {
+		calculator.setMemory(100);
+	}
+
+}
